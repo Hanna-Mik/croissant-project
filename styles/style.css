@@ -1,11 +1,23 @@
-html {
-  background: linear-gradient(to top, #fff1eb 0%, #b8ccdb 100%);
+html,
+body {
+  margin: 0px;
   height: 100%;
   width: 100%;
+  background: linear-gradient(to top, #fff1eb 0%, #b8ccdb 100%);
   background-repeat: no-repeat;
   background-size: cover;
+  font-family: "Fasthand", cursive;
+  font-size: 24px;
 }
+
 .navigation-links {
   display: flex;
   justify-content: space-around;
+}
+img {
+  max-width: 50%;
+  height: auto;
+}
+a {
+  color: #5d7287;
 }
