@@ -16,7 +16,7 @@ body {
 }
 img {
   max-width: 50%;
-  height: auto;
+  max-height: 50%;
 }
 a {
   color: #5d7287;
