@@ -1,0 +1,11 @@
+html {
+  background: linear-gradient(to top, #fff1eb 0%, #b8ccdb 100%);
+  height: 100%;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.navigation-links {
+  display: flex;
+  justify-content: space-around;
+}
